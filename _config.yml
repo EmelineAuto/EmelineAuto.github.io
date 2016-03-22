@@ -1,2 +1,3 @@
 name: Autonomous car and pedestrians
 markdown: krandom
+permalink: /blog/:year/:month/:day/:title
